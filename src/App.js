@@ -196,7 +196,7 @@ function TextFieldSubmit({ onSubmit }) {
           onChange={onChange}
         />
         <button className="btn" disabled={disabled}>
-          send
+          submit
         </button>
       </form>
     </div>
